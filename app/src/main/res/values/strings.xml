@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project UTS Product App</string>
+    <string name="title_products">Daftar Produk</string>
+    <string name="title_profile">Profil Developer</string>
+    <string name="title_detail">Detail Produk</string>
+    <string name="title_reviews">Ulasan Produk</string>
+    <string name="lihat_semua_review">Lihat Semua Review</string>
+</resources>
